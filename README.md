@@ -24,6 +24,6 @@ The conversion begins in PaperPile. Publications must be tagged within the Paper
 
 Next, follow usage convention above. Specify all of the tags your wish to have converted. The output directory can be specified, but the current working directory will be used if it's not.
 
-The module will create 1 page for each tag named ```<tag name>.md```, which contains the data for all references with that tag, and 1 folder (```<tag name```) that will have 1 page for each individual reference.
+The module will create 1 page for each tag named ```<tag name>.md```, which contains the data for all references with that tag, and 1 folder (```<tag name>```) that will have 1 page for each individual reference.
 
 Because the data is in YAML format, Jekyll's templating software "Liquid" can be used to display the data. For help with this, see [JekyllBib](https://github.com/scrim-network/JekyllBib).

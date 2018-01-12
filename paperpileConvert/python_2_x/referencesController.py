@@ -17,29 +17,29 @@ class referencesController:
         self.pub_dir = ""
         self.tags = False
         self.order = [1]
-        self.path = path[:-7]
+        self.path = path
         self.writer = referenceWriter()
         return None
-    
-    
+
+
     def formatReferences(self):
         for item in self.json:
             ref = referenceFormatter(item)
             self.data.append(ref.get())
         return None
-    
-    
+
+
     def setTags(self, tags):
         self.tags = tags
         return None
-    
-    
+
+
     def writeReferences(self):
         self.sortReferences()
         self.writer.write(self.data, self.tags, self.path)
         return None
-    
-    
+
+
     def sortReferences(self):
         try:
             self.data = sorted(self.data, key = lambda k: (-int(k['published_date']), k['authors']))

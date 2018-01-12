@@ -3,8 +3,8 @@ referencesController.py
 
 """
 
-from referenceFormatter import referenceFormatter
-from referenceWriter import referenceWriter
+from .referenceFormatter import referenceFormatter
+from .referenceWriter import referenceWriter
 import sets
 import json
 import operator
@@ -17,7 +17,7 @@ class referencesController:
         self.pub_dir = ""
         self.tags = False
         self.order = [1]
-        self.path = path[:-7]
+        self.path = path
         self.writer = referenceWriter()
         return None
 

@@ -4,7 +4,7 @@ Converts PaperPile JSON data into YAML suitable for Jekyll websites
 ## Installation
 
 ```
-pip install git+git://github.com/rsm5139/paperpileConvert.git#egg=paperpileConvert
+pip install git+git://github.com/scrim-network/paperpileConvert.git#egg=paperpileConvert
 ```
 
 ## Usage

@@ -1,0 +1,611 @@
+[{
+    "dup_sha1": "4028d4ab66276860d6756a2e7f6958674b3fb347",
+    "issue": "32",
+    "test": "hello world test1CO2 test2CO$_2$ test3CO$^2$",
+    "pdf_restricted": 0,
+    "incomplete": 0,
+    "duplicates": [],
+    "url": [
+        "http://doi.wiley.com/10.1002/2013EO320007",
+        "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2013EO320007",
+        "http://dx.doi.org/10.1002/2013EO320007"
+    ],
+    "updated": 1506697203.75973,
+    "publisher": "American Geophysical Union",
+    "doi": "10.1002/2013EO320007",
+    "autocompleted": 1,
+    "published": {
+        "month": "8",
+        "day": "6",
+        "year": "2013"
+    },
+    "id_list": [
+        "sha1:bee513a24fda75fc223817768252b0045588a4d4",
+        "dup_sha1:4028d4ab66276860d6756a2e7f6958674b3fb347",
+        "doi:10.1002/2013EO320007",
+        "url:http://dx.doi.org/10.1002/2013EO320007",
+        "url:http://doi.wiley.com/10.1002/2013EO320007",
+        "url:http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2013EO320007",
+        "url:http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013EO320007",
+        "url:http://onlinelibrary.wiley.com/doi/10.1002/2013EO320007/abstract",
+        "original_id:39c80a8f-cca7-0a75-b059-80c1776a1ed2"
+    ],
+    "title": "Examining Risks, Extreme Events, and Abrupt Changes",
+    "pages": "280",
+    "folders": [
+        "fc5d460f-220b-09c5-8752-fa3bfcbb9758",
+        "207f1cce-5255-067d-af50-50f392b6507c"
+    ],
+    "journalfull": "Eos, Transactions American Geophysical Union",
+    "sha1": "bee513a24fda75fc223817768252b0045588a4d4",
+    "collection_timestamps": {},
+    "trashed": 0,
+    "issn": "0096-3941",
+    "author": [
+        {
+            "initials": "J",
+            "first": "Julia",
+            "formatted": "Hargreaves J",
+            "_id": "f1d67ff6-b314-0f18-ad05-134820e7aefb",
+            "last": "Hargreaves"
+        },
+        {
+            "initials": "K",
+            "first": "Klaus",
+            "formatted": "Keller K",
+            "_id": "fea32a0c-f15b-08c4-91b6-96e8607c3e68",
+            "last": "Keller"
+        },
+        {
+            "initials": "T",
+            "first": "Tamsin",
+            "formatted": "Edwards T",
+            "_id": "47160bb0-8939-05e9-89ff-771545522155",
+            "last": "Edwards"
+        }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1002/2013EO320007",
+    "pubtype": "PP_ARTICLE",
+    "original_id": "39c80a8f-cca7-0a75-b059-80c1776a1ed2",
+    "original_citekey": "hargreaves2013a",
+    "labels": [
+        "2443b26e-5c44-05a0-a0fa-da3957d5e4dd",
+        "e7e8c3f6-366a-00bb-b993-44548806a711",
+        "82d47f9b-0587-0567-ad24-6e8bf7290a97"
+    ],
+    "crawl_urls": [
+        "http://dx.doi.org/10.1002/2013EO320007",
+        "http://doi.wiley.com/10.1002/2013EO320007",
+        "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013EO320007",
+        "http://onlinelibrary.wiley.com/doi/10.1002/2013EO320007/abstract"
+    ],
+    "citekey": "Hargreaves2013-py",
+    "imported": 1,
+    "journal": "Eos Trans. AGU",
+    "owner": "42827BEAD59011E587B2D52D02D06A8F",
+    "attachments": [],
+    "volume": "94",
+    "journal_checked": 1,
+    "note": "NSF/SCRiM support not acknowledged (this is a workshop summary in EOS and the format did not allow for this)",
+    "created": 1455725510.23597,
+    "subfolders": [
+        "All Papers/H"
+    ],
+    "autoCleaned": "1",
+    "labelsNamed": [
+        "scrim_publications",
+        "clima_publications",
+        "Federal Support"
+    ],
+    "foldersNamed": [
+        "scrim_publications",
+        "clima_publications"
+    ]
+},
+{
+    "dup_sha1": "447178e9c754d48b84cda3c09045c0c4d663700c",
+    "issue": "37",
+    "incomplete": 0,
+    "duplicates": [],
+    "url": [
+        "http://doi.wiley.com/10.1002/2013EO370002",
+        "http://dx.doi.org/10.1002/2013EO370002"
+    ],
+    "updated": 1506692323.09846,
+    "doi": "10.1002/2013EO370002",
+    "id_list": [
+        "sha1:8697a56ae72502cef282ff04ee3065aeaf0d6083",
+        "dup_sha1:447178e9c754d48b84cda3c09045c0c4d663700c",
+        "doi:10.1002/2013EO370002",
+        "url:http://dx.doi.org/10.1002/2013EO370002",
+        "url:http://doi.wiley.com/10.1002/2013EO370002"
+    ],
+    "published": {
+        "month": "10",
+        "year": "2013"
+    },
+    "title": "Downscaled Climate Projections Suitable for Resource Management",
+    "pages": "321-323",
+    "journalfull": "Eos, Transactions American Geophysical Union",
+    "sha1": "8697a56ae72502cef282ff04ee3065aeaf0d6083",
+    "folders": [
+        "52a89ce9-5140-09c0-94cb-d2890b096964"
+    ],
+    "collection_timestamps": {
+        "0f6c2085-c2c6-0518-90d9-8873397d8c04": 1505937690.49621
+    },
+    "author": [
+        {
+            "initials": "B",
+            "first": "Bridget",
+            "formatted": "Thrasher B",
+            "_id": "36a6ab8e-5271-0261-b7d6-8bc89ed5572d",
+            "last": "Thrasher"
+        },
+        {
+            "initials": "J",
+            "first": "Jun",
+            "formatted": "Xiong J",
+            "_id": "98a8abc7-0736-041d-99bf-26d760297e36",
+            "last": "Xiong"
+        },
+        {
+            "initials": "W",
+            "first": "Weile",
+            "formatted": "Wang W",
+            "_id": "39fc6985-55ec-01a6-aeed-8bf49898debd",
+            "last": "Wang"
+        },
+        {
+            "initials": "F",
+            "first": "Forrest",
+            "formatted": "Melton F",
+            "_id": "6d0aef61-5191-09ad-9509-66e3abdb0e61",
+            "last": "Melton"
+        },
+        {
+            "initials": "A",
+            "first": "Andrew",
+            "formatted": "Michaelis A",
+            "_id": "8d76ef51-ff18-0569-812f-6bd876bdb5ea",
+            "last": "Michaelis"
+        },
+        {
+            "initials": "R",
+            "first": "Ramakrishna",
+            "formatted": "Nemani R",
+            "_id": "7c172dbd-f4f5-017a-81c0-bed7e7d14373",
+            "last": "Nemani"
+        }
+    ],
+    "issn": "0096-3941",
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1002/2013EO370002",
+    "pubtype": "PP_ARTICLE",
+    "original_citekey": "Thrasher2013-tx",
+    "labels": [
+        "bcbc4ee2-844a-05b6-9ea2-8906384a2083",
+        "82d47f9b-0587-0567-ad24-6e8bf7290a97"
+    ],
+    "citekey": "Thrasher2013-ev",
+    "imported": 1,
+    "journal": "Eos Trans. AGU",
+    "owner": "42827BEAD59011E587B2D52D02D06A8F",
+    "attachments": [],
+    "volume": "94",
+    "journal_checked": 1,
+    "created": 1505929018.44347,
+    "subfolders": [
+        "All Papers/T"
+    ],
+    "autoCleaned": "1",
+    "labelsNamed": [
+        "other_non-supported_references",
+        "Federal Support"
+    ],
+    "foldersNamed": [
+        "other_non-supported_references",
+        "other_non-supported_references"
+    ]
+},
+{
+    "dup_sha1": "62b8869c6879a4afd630ddaf53c3a1c720c515e7",
+    "issue": "20",
+    "keywords": "ice stream; ice shelf; tidal flexure; subglacial hydrology; radio-echo sounding; glacier dynamics; 0726 Ice sheets; 0730 Ice streams; 0728 Ice shelves; 0774 Dynamics; 0776 Glaciology",
+    "pdf_restricted": 0,
+    "incomplete": 0,
+    "duplicates": [],
+    "url": [
+        "http://dx.doi.org/10.1002/2013GL057447",
+        "http://onlinelibrary.wiley.com/doi/10.1002/2013GL057447/full"
+    ],
+    "updated": 1506692345.28023,
+    "doi": "10.1002/2013GL057447",
+    "autocompleted": 1,
+    "published": {
+        "month": "10",
+        "day": "28",
+        "year": "2013"
+    },
+    "id_list": [
+        "sha1:b600cff8ef9d1b83184237073242d27b4a64201e",
+        "dup_sha1:62b8869c6879a4afd630ddaf53c3a1c720c515e7",
+        "doi:10.1002/2013GL057447",
+        "url:http://dx.doi.org/10.1002/2013GL057447",
+        "url:http://onlinelibrary.wiley.com/doi/10.1002/2013GL057447/full",
+        "url:http://doi.wiley.com/10.1002/2013GL057447",
+        "url:http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013GL057447",
+        "url:http://onlinelibrary.wiley.com/doi/10.1002/2013GL057447/abstract"
+    ],
+    "issn_alt": "1944-8007",
+    "title": "Ice sheet grounding zone stabilization due to till compaction",
+    "abstract": "Based on modeling motivated by new GPS and radio-echo sounding surveys, a few-kilometers-long zone of Whillans Ice Stream, West Antarctica, just inland of the grounding line has higher basal shear stress than the ice farther upstream or the freely slipping ice shelf downstream. Data from this zone show a few-meter-high upwarp of the surface overlying a large fold extending through all internal radar layers observed. Flowband modeling shows that the fold can be generated by decreased basal lubrication beneath the upwarp. Basal topography alone cannot create this fold. Physical modeling and available data suggest that low-amplitude tidal flexure of the ice shelf extends a few kilometers inland. Downward flexing of this grounded ice from the rising tide would compact subglacial till, resulting in higher basal shear stress. This result suggests that important processes influencing grounding line stability are not included in modern whole-ice-sheet models.",
+    "pages": "5406-5411",
+    "folders": [
+        "207f1cce-5255-067d-af50-50f392b6507c"
+    ],
+    "journalfull": "Geophysical research letters",
+    "sha1": "b600cff8ef9d1b83184237073242d27b4a64201e",
+    "author": [
+        {
+            "initials": "K",
+            "first": "Knut",
+            "level": "0.0",
+            "bak": "Christianson, Knut",
+            "formatted": "Christianson K",
+            "_id": "e633583c-8fa8-0d29-b0b8-d7af08236307",
+            "last": "Christianson"
+        },
+        {
+            "initials": "BR",
+            "first": "Byron R",
+            "level": "0.0",
+            "bak": "Parizek, Byron R.",
+            "formatted": "Parizek BR",
+            "_id": "9a719df0-fdf3-0148-949f-24667d3a7eb6",
+            "last": "Parizek"
+        },
+        {
+            "initials": "RB",
+            "first": "Richard B",
+            "level": "0.0",
+            "bak": "Alley, Richard B.",
+            "formatted": "Alley RB",
+            "_id": "7be0e840-9db6-092d-8e9c-3399197dffed",
+            "last": "Alley"
+        },
+        {
+            "initials": "HJ",
+            "first": "Huw J",
+            "level": "0.0",
+            "bak": "Horgan, Huw J.",
+            "formatted": "Horgan HJ",
+            "_id": "14098d88-d494-05b8-9c35-338df62e1e07",
+            "last": "Horgan"
+        },
+        {
+            "initials": "RW",
+            "first": "Robert W",
+            "level": "0.0",
+            "bak": "Jacobel, Robert W.",
+            "formatted": "Jacobel RW",
+            "_id": "74ce2cc6-6564-05dc-941f-f29616b61bb9",
+            "last": "Jacobel"
+        },
+        {
+            "initials": "S",
+            "first": "Sridhar",
+            "level": "0.0",
+            "bak": "Anandakrishnan, Sridhar",
+            "formatted": "Anandakrishnan S",
+            "_id": "b6f93fba-7c31-01be-9c42-2303e26927a1",
+            "last": "Anandakrishnan"
+        },
+        {
+            "initials": "BA",
+            "first": "Benjamin A",
+            "level": "0.0",
+            "bak": "Keisling, Benjamin A.",
+            "formatted": "Keisling BA",
+            "_id": "645cd2f3-ea2c-06b3-86fe-be64e05bc642",
+            "last": "Keisling"
+        },
+        {
+            "initials": "BD",
+            "first": "Brian D",
+            "level": "0.0",
+            "bak": "Craig, Brian D.",
+            "formatted": "Craig BD",
+            "_id": "0a66fda5-d475-0d3c-b821-9e2f89de2452",
+            "last": "Craig"
+        },
+        {
+            "initials": "A",
+            "first": "Atsuhiro",
+            "level": "0.0",
+            "bak": "Muto, Atsuhiro",
+            "formatted": "Muto A",
+            "_id": "59740957-3307-0827-921e-8f92ec8e62f3",
+            "last": "Muto"
+        }
+    ],
+    "issn": "0094-8276",
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1002/2013GL057447",
+    "pubtype": "PP_ARTICLE",
+    "labels": [
+        "e7e8c3f6-366a-00bb-b993-44548806a711"
+    ],
+    "crawl_urls": [
+        "http://dx.doi.org/10.1002/2013GL057447",
+        "http://doi.wiley.com/10.1002/2013GL057447",
+        "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013GL057447",
+        "http://onlinelibrary.wiley.com/doi/10.1002/2013GL057447/abstract"
+    ],
+    "imported": 1,
+    "citekey": "Christianson2013-ej",
+    "journal": "Geophysical Research Letters",
+    "gs_cluster_id": "2347648955658130925",
+    "owner": "42827BEAD59011E587B2D52D02D06A8F",
+    "attachments": [
+        {
+            "article_pdf": 1,
+            "_id": "9a2c01d4-615a-05b2-8117-8e9a1ddb26cb",
+            "hasUpdates": "1",
+            "pub_trashed": 0,
+            "pub_id": "33c17d5e-7acb-0dd2-83b4-eed4e73205b6",
+            "source_filename": "[article_pdf].pdf",
+            "updated": 1475783168.40383,
+            "owner": "42827BEAD59011E587B2D52D02D06A8F",
+            "gdrive_id": "0BzNObtVOlCh_SXR4cC1nWDJIMDg",
+            "filesize": 2845394,
+            "created": 1475783168.40382,
+            "filename": "Christianson et al. 2013 - Ice sheet grounding zone stabilization due to till compaction.pdf",
+            "gdrive_needs_sync": 0,
+            "subfolders": [
+                "All Papers/C"
+            ],
+            "mimeType": "application/pdf",
+            "md5": "42479f8dcdfb96e617b5659af97f24b7"
+        }
+    ],
+    "volume": "40",
+    "journal_checked": 1,
+    "created": 1475783153.62655,
+    "subfolders": [
+        "All Papers/C"
+    ],
+    "autoCleaned": "1",
+    "labelsNamed": [
+        "clima_publications"
+    ],
+    "foldersNamed": [
+        "clima_publications"
+    ]
+},
+{
+    "dup_sha1": "37d4476ec0514505eb4b0454d25bb8a4978ace30",
+    "issue": "24",
+    "pdf_restricted": 0,
+    "incomplete": 0,
+    "duplicates": [
+        "c5855457-20eb-0464-8f09-38f01b234c9c"
+    ],
+    "url": [
+        "http://doi.wiley.com/10.1002/2013JD020380",
+        "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2013JD020380",
+        "http://dx.doi.org/10.1002/2013JD020380",
+        "http://dx.doi.org/10.1002/2013jd020380"
+    ],
+    "updated": 1506692365.67687,
+    "doi": "10.1002/2013JD020380",
+    "autocompleted": 1,
+    "id_list": [
+        "sha1:7ab3966e8f0682ae27db43aadd7b2a5fe48c2c36",
+        "dup_sha1:37d4476ec0514505eb4b0454d25bb8a4978ace30",
+        "doi:10.1002/2013JD020380",
+        "url:http://dx.doi.org/10.1002/2013JD020380",
+        "url:http://doi.wiley.com/10.1002/2013JD020380",
+        "url:http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2013JD020380",
+        "url:http://dx.doi.org/10.1002/2013jd020380",
+        "url:http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013JD020380",
+        "url:http://onlinelibrary.wiley.com/doi/10.1002/2013JD020380/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+27th+February+from+09%3A00-14%3A00+GMT+%2F+04%3A00-09%3A00+EST+%2F+17%3A00-22%3A00+SGT+for+essential+maintenance.++Apologies+for+the+inconvenience.",
+        "original_id:32612299-9f8b-0978-9f0f-6b1b472d1321"
+    ],
+    "published": {
+        "month": "12",
+        "day": "27",
+        "year": "2013"
+    },
+    "title": "Long-term variations of North Atlantic tropical cyclone activity downscaled from a coupled model simulation of the last millennium",
+    "pages": "13,383-13,392",
+    "folders": [
+        "207f1cce-5255-067d-af50-50f392b6507c"
+    ],
+    "journalfull": "Journal of Geophysical Research, D: Atmospheres",
+    "sha1": "7ab3966e8f0682ae27db43aadd7b2a5fe48c2c36",
+    "collection_timestamps": {},
+    "trashed": 0,
+    "author": [
+        {
+            "initials": "ME",
+            "first": "Michael E",
+            "formatted": "Kozar ME",
+            "_id": "5020b1f0-1f40-0023-a57c-bea1a37256e7",
+            "last": "Kozar"
+        },
+        {
+            "initials": "ME",
+            "first": "Michael E",
+            "formatted": "Mann ME",
+            "_id": "ae677851-4c2b-0796-a647-712c284c56b3",
+            "last": "Mann"
+        },
+        {
+            "initials": "KA",
+            "first": "Kerry A",
+            "formatted": "Emanuel KA",
+            "_id": "19a1e6ff-b539-06a6-a670-0d22f51cb633",
+            "last": "Emanuel"
+        },
+        {
+            "initials": "JL",
+            "first": "Jenni L",
+            "formatted": "Evans JL",
+            "_id": "db1ba6e3-497e-0577-b528-6df0814c5059",
+            "last": "Evans"
+        }
+    ],
+    "issn": "2169-897X",
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1002/2013JD020380",
+    "pubtype": "PP_ARTICLE",
+    "original_id": "32612299-9f8b-0978-9f0f-6b1b472d1321",
+    "labels": [
+        "e7e8c3f6-366a-00bb-b993-44548806a711"
+    ],
+    "crawl_urls": [
+        "http://dx.doi.org/10.1002/2013JD020380",
+        "http://doi.wiley.com/10.1002/2013JD020380",
+        "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/2013JD020380",
+        "http://onlinelibrary.wiley.com/doi/10.1002/2013JD020380/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+27th+February+from+09%3A00-14%3A00+GMT+%2F+04%3A00-09%3A00+EST+%2F+17%3A00-22%3A00+SGT+for+essential+maintenance.++Apologies+for+the+inconvenience."
+    ],
+    "imported": 1,
+    "journal": "Journal of Geophysical Research, D: Atmospheres",
+    "citekey": "Kozar2013-du",
+    "owner": "42827BEAD59011E587B2D52D02D06A8F",
+    "attachments": [],
+    "volume": "118",
+    "journal_checked": 1,
+    "created": 1455725232.95475,
+    "subfolders": [
+        "All Papers/K"
+    ],
+    "autoCleaned": "1",
+    "labelsNamed": [
+        "clima_publications"
+    ],
+    "foldersNamed": [
+        "clima_publications"
+    ]
+},
+{
+    "dup_sha1": "7b654d3b0fb2aea664e15a6eb641e7c94a854896",
+    "dup_group_last": 0,
+    "pdf_restricted": 0,
+    "incomplete": 0,
+    "duplicates": [
+        "943a0895-c973-0b12-bf89-8f746cf1535c"
+    ],
+    "url": [
+        "http://onlinelibrary.wiley.com/doi/10.1002/2013JD020380/full"
+    ],
+    "updated": 1506692341.45577,
+    "publisher": "Wiley Online Library",
+    "doi": "10.1002/2013JD020380",
+    "source_id": "",
+    "view_context_open": 0,
+    "gs_bibtex": "https://scholar.google.comhttps://scholar.googleusercontent.com/scholar.bib?q=info:mZ2A8jxM394J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWATiMMY9576swtIoVqFzyCUs9N-x_67z&scisf=4&ct=citation&cd=0&hl=en",
+    "id_list": [
+        "sha1:4d7bd3d143dbb6dc2f3497489b333f3183a1c51d",
+        "dup_sha1:7b654d3b0fb2aea664e15a6eb641e7c94a854896",
+        "doi:10.1002/2013JD020380",
+        "url:http://dx.doi.org/10.1002/2013JD020380",
+        "url:http://onlinelibrary.wiley.com/doi/10.1002/2013JD020380/full"
+    ],
+    "published": {
+        "year": "2013"
+    },
+    "title": "Long‐term variations of North Atlantic tropical cyclone activity downscaled from a coupled model simulation of the last millennium",
+    "abstract": "Abstract [1] The observed historical record of North Atlantic tropical cyclones (TCs) is relatively short and is subject to potential biases owing to a lack of observation platforms such as aircraft reconnaissance and satellite imagery in earlier decades. Therefore, ...",
+    "dup_group": 0,
+    "_owner_google_email": "",
+    "folders": [
+        "207f1cce-5255-067d-af50-50f392b6507c"
+    ],
+    "journalfull": "Journal of geophysical research",
+    "sha1": "4d7bd3d143dbb6dc2f3497489b333f3183a1c51d",
+    "_imported": 0,
+    "collection_timestamps": {},
+    "dup_group_first": 0,
+    "author": [
+        {
+            "initials": "ME",
+            "first": "M E",
+            "formatted": "Kozar ME",
+            "_id": "b0925898-6556-0814-813b-564d12d63c8d",
+            "last": "Kozar"
+        },
+        {
+            "initials": "ME",
+            "first": "M E",
+            "formatted": "Mann ME",
+            "_id": "eec1ea0e-a88e-0148-b6ef-45b458dfc800",
+            "last": "Mann"
+        },
+        {
+            "initials": "KA",
+            "first": "K A",
+            "formatted": "Emanuel KA",
+            "_id": "4cfcf202-94fb-01bf-9a47-125ac9a91d25",
+            "last": "Emanuel"
+        },
+        {
+            "initials": "",
+            "formatted": "et al.",
+            "_id": "485ad5ae-0085-0953-a1d9-e219ff5208ab",
+            "collective": "others"
+        }
+    ],
+    "issn": "0148-0227",
+    "owner_email": "",
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=16059638620876742041&as_sdt=2005&sciodt=0,5&hl=en",
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1002/2013JD020380",
+    "pubtype": "PP_ARTICLE",
+    "owner_name": "",
+    "labels": [
+        "e7e8c3f6-366a-00bb-b993-44548806a711"
+    ],
+    "citekey": "Kozar2013-sd",
+    "journal": "Journal of Geophysical Research",
+    "imported": 1,
+    "gs_cluster_id": "16059638620876742041",
+    "owner": "42827BEAD59011E587B2D52D02D06A8F",
+    "attachments": [
+        {
+            "article_pdf": 1,
+            "_id": "dcacdf3b-e7ee-045a-b083-2a48f2f4188a",
+            "hasUpdates": "1",
+            "pub_trashed": 0,
+            "pub_id": "c5855457-20eb-0464-8f09-38f01b234c9c",
+            "source_filename": "[article_pdf].pdf",
+            "updated": 1476714482.83833,
+            "owner": "42827BEAD59011E587B2D52D02D06A8F",
+            "gdrive_id": "0BzNObtVOlCh_SjNxZTNCWS1FckU",
+            "filesize": 4430224,
+            "created": 1476714482.83833,
+            "filename": "Kozar et al. 2013 - Long‐term variations of North Atlantic tropical cyc ... vity downscaled from a coupled model simulation of the last millennium.pdf",
+            "gdrive_needs_sync": 0,
+            "subfolders": [
+                "All Papers/K"
+            ],
+            "mimeType": "application/pdf",
+            "md5": "9a92a9c26ae4ab52e3c9bb84485e4f40"
+        }
+    ],
+    "editing_note": 0,
+    "journal_checked": 1,
+    "_owner_google_name": "",
+    "view_expanded": 0,
+    "gs_cited_by_count": 13,
+    "created": 1476714462.19422,
+    "gs_all_versions": "https://scholar.google.com/scholar?cluster=16059638620876742041&hl=en&as_sdt=0,5",
+    "subfolders": [
+        "All Papers/K"
+    ],
+    "_imported_id": "",
+    "cite_alias": "",
+    "labelsNamed": [
+        "clima_publications"
+    ],
+    "foldersNamed": [
+        "clima_publications"
+    ]
+}]

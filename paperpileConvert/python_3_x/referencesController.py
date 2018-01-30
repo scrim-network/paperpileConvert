@@ -5,7 +5,6 @@ referencesController.py
 
 from .referenceFormatter import referenceFormatter
 from .referenceWriter import referenceWriter
-import sets
 import json
 import operator
 import os
